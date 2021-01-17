@@ -8,6 +8,14 @@ const data = {
             bgImage: 'images/image2.jpg',
             bgSize: 'cover',
             bgPositionY: '40%'
+        },
+
+        {
+            sectNum: 'sec-2',
+            bgColor: 'blue',
+            bgImage: 'images/image1.jpg',
+            bgSize: 'cover',
+            bgPositionY: '0'
         }
     ]
 }
